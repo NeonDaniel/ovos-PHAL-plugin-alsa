@@ -1,24 +1,12 @@
 # Changelog
 
-## [0.0.2](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-alsa/tree/0.0.2) (2023-06-15)
+## [0.0.3a1](https://github.com/NeonDaniel/ovos-PHAL-plugin-alsa/tree/0.0.3a1) (2023-06-16)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-alsa/compare/V0.0.2a2...0.0.2)
-
-**Merged pull requests:**
-
-- Implement shared GH automation and remove deprecated scripts [\#12](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-alsa/pull/12) ([NeonDaniel](https://github.com/NeonDaniel))
-
-## [V0.0.2a2](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-alsa/tree/V0.0.2a2) (2023-06-14)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-alsa/compare/V0.0.2a1...V0.0.2a2)
+[Full Changelog](https://github.com/NeonDaniel/ovos-PHAL-plugin-alsa/compare/10fe6be0768e5a4d2fcaa74314981474725053ba...0.0.3a1)
 
 **Merged pull requests:**
 
-- Move deprecated ovos\_utils class to plugin [\#11](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-alsa/pull/11) ([NeonDaniel](https://github.com/NeonDaniel))
-
-## [V0.0.2a1](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-alsa/tree/V0.0.2a1) (2023-04-04)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-alsa/compare/V0.0.1...V0.0.2a1)
+- Test Alpha Automation [\#1](https://github.com/NeonDaniel/ovos-PHAL-plugin-alsa/pull/1) ([NeonDaniel](https://github.com/NeonDaniel))
 
 
 
